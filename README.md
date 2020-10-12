@@ -1,4 +1,4 @@
-# KNN Model Introduction Tutorial
+# KNN Model using Diabetes Data - Introduction Tutorial
 
 Objective of the project:
 *Provide introductory tutorial for simple tasks taken to leverage the K-nearest neighbor model from sklearn
